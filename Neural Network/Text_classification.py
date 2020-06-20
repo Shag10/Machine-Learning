@@ -42,4 +42,12 @@ fmodel=model.fit(x_tr,y_tr,epochs=45,batch_size=512,validation_data=(x_val,y_val
 res=model.evaluate(test_txt,train_label)
 print(res)
 
+review = test_txt[0]
+predict = model.predict([review])                 // You can retrieve a comment and analyze whether it is good comment or bad.
+print("Review: ")
+print(decode(review))
+print("Prediction: "+str(predict[0]))
+print("Actual: "+str(test_label[0]))
+print(res)
+
 model.save("model.h5")
