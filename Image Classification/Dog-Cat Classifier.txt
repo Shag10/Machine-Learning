@@ -1,5 +1,5 @@
-This Model was Created using the concept of Tranfer learning.
-The model used in the Clssifier is VGG16
+This Model was created using the concept of Tranfer learning.
+The model used in the Classifier is VGG16
 The Dataset used is around 4000 images (2000 each).
 2000 images are used for training set and 1000 each for validation and test set.
 Although my model was trained on only 6 epochs. I highly recommend it should be trained on atleast 30 epochs if the system has good specification. Either way it'll take considerably long time for training the model.
