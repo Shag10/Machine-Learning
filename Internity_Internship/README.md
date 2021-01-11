@@ -29,3 +29,6 @@ As it was quite a long topic so I have to cover it in 3 parts.
 ## Day 7: Linear Regression
 [Linear Regression](https://shubhangagrawal1999.medium.com/linear-regression-15f2aecf689e)  
 (Published In Analytics Vidhya)
+## Day 8: K-Nearest Neighbors (KNN)
+[K-Nearest Neighbors (KNN)](https://shubhangagrawal1999.medium.com/k-nearest-neighbors-knn-8f027ae1228f)  
+(Published In Analytics Vidhya)
