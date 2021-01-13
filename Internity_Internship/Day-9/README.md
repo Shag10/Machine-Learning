@@ -1,3 +1,3 @@
 ## Day 8: DECISION TREE
-[DECISION TREE](https://shubhangagrawal1999.medium.com/k-nearest-neighbors-knn-8f027ae1228f)  
+[DECISION TREE](https://shubhangagrawal1999.medium.com/decision-tree-fce5018f3278)  
 (Published In Analytics Vidhya)
