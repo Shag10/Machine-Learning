@@ -32,3 +32,8 @@ As it was quite a long topic so I have to cover it in 3 parts.
 ## Day 8: K-Nearest Neighbors (KNN)
 [K-Nearest Neighbors (KNN)](https://shubhangagrawal1999.medium.com/k-nearest-neighbors-knn-8f027ae1228f)  
 (Published In Analytics Vidhya)
+## Day 9: DECISION TREE and RANDOM FOREST
+[DECISION TREE](https://shubhangagrawal1999.medium.com/decision-tree-fce5018f3278)  
+(Published In Analytics Vidhya)
+[RANDOM FOREST](https://shubhangagrawal1999.medium.com/decision-tree-fce5018f3278)  
+(Published In STARTUP)
