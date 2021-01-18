@@ -40,3 +40,8 @@ As it was quite a long topic so I have to cover it in 3 parts.
 ## Day 10: Logistic Regression
 [Logistic Regression](https://medium.com/datadriveninvestor/logistic-regression-1532070cf349)  
 (Published In Data Driven Investors)  
+## Day 11: K-Means Clustering
+[To Start with K-Means Clustering](https://shubhangagrawal1999.medium.com/to-start-with-k-means-clustering-1c6ee3cb840f)  
+(Published In Analytics Vidhya)  
+[Image Segmentation using K-Means Clustering](https://shubhangagrawal1999.medium.com/image-segmentation-using-k-means-clustering-46a60488ae71)  
+(Published In Analytics Vidhya)
