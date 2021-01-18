@@ -35,5 +35,8 @@ As it was quite a long topic so I have to cover it in 3 parts.
 ## Day 9: DECISION TREE and RANDOM FOREST
 [DECISION TREE](https://shubhangagrawal1999.medium.com/decision-tree-fce5018f3278)  
 (Published In Analytics Vidhya)  
-[RANDOM FOREST](https://shubhangagrawal1999.medium.com/decision-tree-fce5018f3278)  
+[RANDOM FOREST](https://medium.com/swlh/random-forest-ac5227dabb08)  
 (Published In STARTUP)
+## Day 10: Logistic Regression
+[Logistic Regression](https://medium.com/datadriveninvestor/logistic-regression-1532070cf349)  
+(Published In Data Driven Investors)  
