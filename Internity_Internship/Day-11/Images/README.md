@@ -1,1 +1,1 @@
-# Images Used in implementing Image Segmentation using K-Means Clustering.
+# Images Used in implementing Image Segmentation and Dominant Color Extraction using K-Means Clustering.
