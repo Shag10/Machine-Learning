@@ -48,3 +48,6 @@ As it was quite a long topic so I have to cover it in 3 parts.
 ## Day 12: Introduction to Support Vector Machine(SVM)
 [Introduction to Support Vector Machine(SVM)](https://medium.com/ai-in-plain-english/introduction-to-support-vector-machine-svm-cd0759098471)  
 (Published In AI in Plain English) 
+## Day 13: All you need to know about Naive Bayes
+[All you need to know about Naive Bayes](https://medium.com/analytics-vidhya/all-you-need-to-know-about-naive-bayes-1b1681bf6cc9)  
+(Published In AI in Analytics Vidhya) 
