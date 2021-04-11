@@ -1,5 +1,5 @@
 # Machine-Learning
-This repository contains the basics of machine learning algorithms. Algorithms based on:
+This repository contains the basics of machine learning algorithms. Algorithms based on:  
 --> Internship (Interactive/Responsive Chatbot, ML Algorithms from scratch and Blogs on that)  
 --> Supervised Learning  
 --> Unsupervised Learning   
